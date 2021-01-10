@@ -1,4 +1,3 @@
-import { ExecFileSyncOptionsWithBufferEncoding } from 'child_process';
 import './styles.css';
 import { ReactComponent as YoutubeIcon } from './youtube.svg';
 import { ReactComponent as LinkedinIcon } from './linkedin.svg';
